@@ -30,4 +30,24 @@ section#telefone{
     width: 360px;
     background:url('../imagens/frame-iphone.png') no-repeat;
 }
+iframe{
+    position: relative;
+    top: 89px;
+    left: 22px;
+    width: 316px;
+    height: 560px;
+    border-radius: 10px;
+}
+a{
+    display: flex;
+    padding: 15px;
+    position: relative;
+    left: 83vw;
+}
+img{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    
+}
 
