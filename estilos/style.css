@@ -38,16 +38,9 @@ iframe{
     height: 560px;
     border-radius: 10px;
 }
-a{
-    display: flex;
-    padding: 15px;
-    position: relative;
-    left: 83vw;
-}
-img{
+
+section#rede-social img{
     border-radius: 50%;
-    width: 70px;
-    height: 70px;
-    
+    width: 50px;
 }
 
